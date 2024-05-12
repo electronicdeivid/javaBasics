@@ -72,9 +72,7 @@ https://support.google.com/google-ads/answer/14074?hl=es-419
 Calcúlalo de manera que debas incluir el IVA aparte, donde el IVA es 16% del total,
 es decir, deberás calcular total + IVA, imprime el resultado a dos decimales.
 Ejemplo: Si tu total es de $100.00, el total + IVA es $116.00
-
  */
-
 import java.security.spec.ECField;
 
 public class Main{

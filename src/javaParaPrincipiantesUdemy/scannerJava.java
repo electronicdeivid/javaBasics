@@ -81,7 +81,6 @@ hasNextXxx():  Devuelve un boolean. Indica si el siguiente token a extraer es de
 por ejemplo hasNextInt(), hasNextDouble(), etc.
 
 */
-
         // Ahora veremos uun ejemplo de como manejar un error de ingreso.
 
         int N;

@@ -17,15 +17,5 @@ public class condicionalesJava {
         } else{
             System.out.println("\n Must contain one episode or more");
         }
-
-
-
-
-
-
-
-
-
-
     }
 }
