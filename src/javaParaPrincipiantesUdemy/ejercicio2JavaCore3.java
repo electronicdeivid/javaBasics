@@ -4,10 +4,7 @@ import java.util.Scanner;
 
 public class ejercicio2JavaCore3 {
     public static void main(String[] args) {
-        /*
- 3. Haz un ciclo for y while que obtenga la sumatoria de los números hasta n, ejemplo,
-para 5 debes obtener 15 (1+2+3+4+5), para 3 debes obtener 6. Imprime el resultado
-así: “La suma es 15” usando formatos de String         */
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("El programa entrega la sumatoria desde 0 al número límite que usted ingrese. ");
         System.out.println("Ingrese un número entero positivo como límite de la sumatoria");
@@ -29,3 +26,9 @@ así: “La suma es 15” usando formatos de String         */
 
     }
 }
+
+//-------- ENUNCIADO EJERCICIO 3 ---------------
+        /*
+ 3. Haz un ciclo for y while que obtenga la sumatoria de los números hasta n, ejemplo,
+para 5 debes obtener 15 (1+2+3+4+5), para 3 debes obtener 6. Imprime el resultado
+así: “La suma es 15” usando formatos de String         */
